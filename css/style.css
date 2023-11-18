@@ -24,7 +24,7 @@ li {
 .hero {
     background-color: rgb(211, 99, 34);
     text-align: center;
-    background-image: url(./lit-ant-2.jpg);
+    background-image: url(../lit-ant-2.jpg);
     background-repeat: no-repeat;
     width: 100%;
 }
